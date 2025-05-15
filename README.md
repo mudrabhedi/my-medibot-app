@@ -145,7 +145,7 @@ Scan the QR code on Expo Go app to preview it on your phone.
 > Insert screenshots of:
 > - The Android app UI
 > - ![WhatsApp Image 2025-05-15 at 00 53 58_8e670e3e](https://github.com/user-attachments/assets/a5a1086a-cba0-4e46-b995-cd104f64f280)
-> - ▶️ [Click to watch demo video](https://drive.google.com/file/d/1fqR3g9u5Y8XVw8Bmx26TrzGRBb3bP2J4/view?usp=sharing)
+
 
 > - Web App UI
 > - ![Screenshot 2025-05-15 093316](https://github.com/user-attachments/assets/9811acb0-fcb1-4e36-8162-b5c4081937c4)
@@ -194,3 +194,6 @@ This project is licensed under the MIT License.
 - [LangChain](https://www.langchain.com/)
 - [Sentence Transformers](https://www.sbert.net/)
 - [Facebook FAISS](https://github.com/facebookresearch/faiss)
+
+  ##Demo Video of the App
+  > - ▶️ [Click to watch demo video](https://drive.google.com/file/d/16abeNkGZDUOgxbr0eU3Nh1QSieIvljCx/view?usp=sharing)
