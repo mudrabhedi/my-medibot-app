@@ -149,8 +149,6 @@ Scan the QR code on Expo Go app to preview it on your phone.
 
 > - Web App UI
 > - ![Screenshot 2025-05-15 093316](https://github.com/user-attachments/assets/9811acb0-fcb1-4e36-8162-b5c4081937c4)
-> - FAISS creation in terminal
-> - Example JSON response
 
 ---
 
