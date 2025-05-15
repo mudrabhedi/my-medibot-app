@@ -1,0 +1,15 @@
+streamlit
+langchain
+langchain-community
+langchain-huggingface
+huggingface_hub
+sentence-transformers
+faiss-cpu
+python-dotenv
+numpy<2.0
+
+
+torch==2.2.1+cpu
+torchvision==0.17.1+cpu
+torchaudio==2.2.1+cpu
+--extra-index-url https://download.pytorch.org/whl/cpu

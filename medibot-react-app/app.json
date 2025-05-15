@@ -1,0 +1,50 @@
+{
+  "expo": {
+    "name": "medibot-app",
+    "slug": "medibot-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "medibotapp",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.bhedi959.medibotapp"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/images/splash-icon.png",
+          "imageWidth": 200,
+          "resizeMode": "contain",
+          "backgroundColor": "#ffffff"
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "768d5113-b05c-407d-b98b-7d88ffd34620"
+      }
+    },
+    "owner": "bhedi959"
+  }
+}
