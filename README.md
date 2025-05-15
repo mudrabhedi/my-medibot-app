@@ -195,5 +195,5 @@ This project is licensed under the MIT License.
 - [Sentence Transformers](https://www.sbert.net/)
 - [Facebook FAISS](https://github.com/facebookresearch/faiss)
 
-  ##Demo Video of the App
+## Demo Video of the App
   > - ▶️ [Click to watch demo video](https://drive.google.com/file/d/16abeNkGZDUOgxbr0eU3Nh1QSieIvljCx/view?usp=sharing)
